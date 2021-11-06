@@ -1,7 +1,8 @@
 # daily_exercise_app
 
-A new Flutter project.
+## Screenshots
 
+<img src="https://github.com/Mohammed187/daily_exercises_app/blob/Screenshots/Screenshot_1636226645.png" width="300" height="600" title="Home Screen"> <img src="https://github.com/Mohammed187/daily_exercises_app/blob/Screenshots/Screenshot_1636226651.png" width="300" height="600" title="Details Screen 1"> <img src="https://github.com/Mohammed187/daily_exercises_app/blob/Screenshots/Screenshot_1636226657.png" width="300" height="600" title="Details Screen 2"> 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
